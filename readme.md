@@ -19,7 +19,9 @@ I personally have a much more elaborate framework and most of the waits are hand
 
 It was in any case an interesting exercise.
 
-I wrote this before to upload this to a github repository, so i hope i won't mess with that as well as I use it only with personal projects (we use TFSC at my workplace also, with plans to move to GIT our repository.
+I wrote this before to upload this to a github repository, so i hope i won't mess with that as well as I use it only with personal projects (we use TFSC at my workplace also, with plans to move to GIT our repository).
+
+I committed by mistake the target folder, removed it with a forced push.
 
 Thanks,
 Paolo
